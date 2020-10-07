@@ -1,3 +1,2 @@
-# is-met
-*"Bizde hata olmaz."*
+# OSman
 Türkçe, yerli ve milli, kapalı kaynak işletim sistemi.
